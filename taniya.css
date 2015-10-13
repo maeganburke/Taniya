@@ -1,0 +1,175 @@
+* {
+	font-family: 'Playfair Display', serif;
+	text-align: center;
+	background-size: cover;
+}
+
+body {
+	background-image: url(http://s3.amazonaws.com/spoonflower/public/design_thumbnails/0183/1351/CustomGoldPolkaDots_repeat_preview.png);
+}
+
+h1 {
+	font-family: 'Lobster Two', cursive;
+}
+
+.jumbotron {
+	margin: 12px 0 12px 0;
+	padding: 5;
+	border-radius: 3px;
+	border-top: #D8B444 2px solid;
+	border-bottom: #D8B444 2px solid;
+	color: white;
+	background-color: #7bb7cc;
+	/*height: 250px;*/
+} h1 {
+	/*font-size: 26px;*/
+	margin-bottom: 5;
+	margin-top: 15px;
+} h2 {
+	margin-top: 0;
+	margin-bottom: 15px;
+}
+
+#frijumbo.jumbotron, #satjumbo.jumbotron {
+	background-color: #5d0066;
+} #frijumbo.jumbotron h1 {
+	margin-bottom: 15px;
+	font-size: 36px;
+} #frijumbo.jumbotron h2 {
+	font-size: 28px;
+} #satjumbo.jumbotron h1 {
+	margin-bottom: 15px;
+	font-size: 36px;
+}
+
+#frijumbo, #satjumbo {
+	width: 50%;
+	border-right: #D8B444 2px solid;
+	float: left;
+}
+
+hr {
+	width:50%;
+	height:3px; 
+	background: black;
+}
+
+img {
+	height: 170px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    border: #D8B444 6px double;
+}
+
+#welcome, #friday, #saturday {
+	margin-top: 30px;
+	text-align: center;
+	background-color: white;
+	opacity: .9;
+	width: 70%;
+	height: 230px;
+	border: #7bb7cc 3px solid;
+	border-radius: 5px;
+	font-size: 18px;
+	margin-left: 16%;
+} h3 {
+	color: #7bb7cc;
+} p {
+	padding: 10px 0px 0 0px;
+	} span {
+	font-size: 16px;
+}
+
+hr {
+	border: none;
+	border-bottom: #D8B444 3px double;
+	background: none;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#friday, #saturday {
+	text-align: center;
+	padding: 0 130px 0 130px;
+	border: #5d0066 3px solid;
+	height: 95%;
+	width: 450px;
+	/*float: right;*/
+	margin-left: 730px;
+	margin-top: 6px;
+	padding-top: 35px;
+}
+
+#friday h3 {
+	margin-top: 10;
+}
+
+#saturday h3 {
+	margin-top: 10;
+}
+
+/*#saturday { 
+	padding-top: 0px;
+}*/
+
+#footer {
+	text-align: center;
+	position: absolute;
+ 	bottom: 0;
+ 	font-size: 15px;
+ 	background-color: #D8B444;
+ 	width: 100%;
+ 	height: 26px;
+ 	padding-top: 2px;
+ 	color: #FFFFFF;
+ 	border-top: #FFFFFF 3px solid;
+}
+
+#about {
+	background-color: white;
+	margin-top: 50px;
+	text-align: center;
+	opacity: .9;
+	width: 40%;
+	height: 540px;
+	border: #925F6E 5px solid;
+	border-radius: 5px;
+	font-size: 18px;
+	margin-left: 30%;
+}
+
+#contactinfo {
+	background-color: white;
+	margin-top: 50px;
+	text-align: center;
+	opacity: .9;
+	width: 40%;
+	height: 450px;
+	border: #566B30 5px solid;
+	border-radius: 5px;
+	font-size: 18px;
+	margin-left: 30%;
+} #contactinfo img {
+	margin-top: 10px;
+}
+
+#schedule h3 {
+	color: #5d0066;
+	font-size: 16px;
+} 
+
+#schedule p {
+	font-size: 15px;
+}
+
+#time {
+	border: none;
+	border-bottom: #D8B444 1px solid;
+	width: 90px;
+	background: none;
+	margin-top: 0;
+	margin-bottom: 0;
+}
